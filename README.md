@@ -29,6 +29,6 @@ Para executar o jogo, basta baixar ou clonar o repositório e executar a classe 
 
 Sinta-se à vontade para contribuir com melhorias no código ou adicionar novas funcionalidades. Basta fazer um fork deste repositório, implementar as mudanças e enviar um pull request.
 
-## Atenção ‼️
+## Atenção ⚠️
 
 Este aplicativo foi desenvolvido na API 24 (Android 7.0 Nougat). Certifique-se de que seu dispositivo ou emulador esteja configurado para a API 24 ou superior para uma experiência de execução adequada.
