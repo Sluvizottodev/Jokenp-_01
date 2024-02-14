@@ -1,8 +1,8 @@
-# Jokenpô em Java
+# Jokenpô em Java 🎮
 
 Este é um projeto simples desenvolvido em Java para aprimorar conhecimentos básicos da linguagem e da criação de interfaces gráficas. O jogo segue as regras clássicas do Jokenpô (Pedra, Papel, Tesoura) e foi desenvolvido como parte de um aprendizado prático.
 
-## Funcionalidades
+## Funcionalidades 😉
 
 O projeto inclui as seguintes funcionalidades:
 
@@ -11,7 +11,7 @@ O projeto inclui as seguintes funcionalidades:
 - Verificação do vencedor com base nas escolhas.
 - Atualização da interface gráfica com o resultado do jogo.
 
-## Conhecimentos Aplicados
+## Conhecimentos Aplicados 🤓
 
 Durante o desenvolvimento deste projeto, foram aplicados os seguintes conhecimentos:
 
@@ -21,11 +21,11 @@ Durante o desenvolvimento deste projeto, foram aplicados os seguintes conhecimen
 - Geração de números aleatórios para simular a escolha do aplicativo.
 - Atualização dinâmica de elementos da interface gráfica para mostrar o resultado do jogo.
 
-## Como Executar o Jogo
+## Como Executar o Jogo ▶️
 
 Para executar o jogo, basta baixar ou clonar o repositório e executar a classe principal `Main.java`.
 
-## Contribuição
+## Contribuição ❤️
 
 Sinta-se à vontade para contribuir com melhorias no código ou adicionar novas funcionalidades. Basta fazer um fork deste repositório, implementar as mudanças e enviar um pull request.
 
